@@ -1,0 +1,7 @@
+[package]
+name = "Knights_vs_Dragons"
+version = "0.1.0"
+authors = ["rdcox <rdcox@umass.edu>"]
+
+[dependencies]
+rand = "0.3"
